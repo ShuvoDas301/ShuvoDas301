@@ -1,8 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20There!&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20There!%20I'm%20Shuvo%20from%20Bangladesh&fontSize=45" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShuvoDas301&style=flat" alt="Profile Views" />
 </p>
